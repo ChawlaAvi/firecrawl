@@ -37,13 +37,11 @@
 
 Empower your AI apps with clean data from any website. Featuring advanced scraping, crawling, and data extraction capabilities.
 
-_This repository is in development, and we’re still integrating custom modules into the mono repo. It's not fully ready for self-hosted deployment yet, but you can run it locally._
-
-## What is Firecrawl?
-
 [Firecrawl](https://firecrawl.dev?ref=github) is an API service that takes a URL, crawls it, and converts it into clean markdown or structured data. We crawl all accessible subpages and give you clean data for each. No sitemap required. Check out our [documentation](https://docs.firecrawl.dev).
 
-_Pst. hey, you, join our stargazers :)_
+<div align="center">
+  <img src="https://github.com/ChawlaAvi/firecrawl/blob/main/firecrawl-scraping.gif" alt="ag-ui Logo" style="max-width: 20px; height: auto;" />
+</div>
 
 <a href="https://github.com/mendableai/firecrawl">
   <img src="https://img.shields.io/github/stars/mendableai/firecrawl.svg?style=social&label=Star&maxAge=2592000" alt="GitHub stars">
